@@ -1,0 +1,6 @@
+# Binaries
+codereview
+*_test
+
+# Vendor
+vendor/
