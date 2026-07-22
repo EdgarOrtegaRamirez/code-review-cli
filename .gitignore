@@ -1,6 +1,8 @@
 # Binaries
-codereview
-*_test
+*.exe
+*.out
+codereview.bin
+*_test.go
 
 # Vendor
 vendor/
